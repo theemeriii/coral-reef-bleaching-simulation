@@ -67,5 +67,6 @@ Spatial analysis highlights uneven reef survival patterns and demonstrates how l
 - Cellular Automata Modeling
 - Monte Carlo Simulation
 - Environmental Systems Modeling
+- Google Earth Engine
 
 
